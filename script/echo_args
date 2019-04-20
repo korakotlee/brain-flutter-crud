@@ -1,0 +1,5 @@
+#!/bin/bash
+# echo "echo args $1 $2"
+# cd $1
+# touch in_aa.tmp
+# git clone ~/Dropbox/repos/kc2 $1
